@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="flex flex-col items-center justify-center bg-gray-50 text-gray-800">
       <header className="w-full py-8 text-white text-center">
-        <h1 className="text-4xl font-extrabold text-orange-500">Welcome to Nagpur!</h1>
-        <p className="mt-2 text-xl text-orange-300">The Orange City of India</p>
+        <h1 className="text-[51px] font-extrabold text-orange-500 ">Welcome to Nagpur!</h1>
+        <p className="mt-2 text-[21px] text-orange-300 " >The Orange City of India</p>
       </header>
 
       <div className=''>
